@@ -54,6 +54,10 @@ Code for the proteins properties prediction for the AI Saturdays Murcia
   
 
 # Papers
-- [ProGen](https://twitter.com/RichardSocher/status/1237842037744910336)
-  - [Blog](https://blog.einstein.ai/progen/)
-  - [Paper](https://www.biorxiv.org/content/10.1101/2020.03.07.982272v1)
+
+- Transformers
+  - Biological Structure and Function Emerge ... (abr 2019, FAIR)
+    - [paper](https://www.biorxiv.org/content/10.1101/622803v1) 
+  - [ProGen](https://twitter.com/RichardSocher/status/1237842037744910336) (mar 2020)
+    - [Blog](https://blog.einstein.ai/progen/)
+    - [Paper](https://www.biorxiv.org/content/10.1101/2020.03.07.982272v1)
