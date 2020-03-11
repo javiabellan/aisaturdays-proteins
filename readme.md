@@ -11,7 +11,7 @@ Code for the proteins properties prediction for the AI Saturdays Murcia
     - Hecer exploratorio con reducción dimensional.
     - Introducir los datos de los dominios.
 2. Con datasets pequeños -> Entrenar de forma supervisada (alguna tarea de clasificación de la proteina)
-    - ¿Qué es interesante predecir? Pregunatar a Alvaro y Estaban
+    - ¿Qué es interesante predecir? Preguntar a Alvaro y Estaban.
 3. Repetir lo anterior con datasets más grandes
 
 ## Data
