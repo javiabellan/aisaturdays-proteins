@@ -34,7 +34,7 @@ Code for the proteins properties prediction for the AI Saturdays Murcia
   - **UniParc**: ftp://ftp.uniprot.org/pub/databases/uniprot/current_release/uniparc/
 
 
-## Modelos a probar
+## Modelos de Deep Learning a probar
 
 - **Recurrent**: Unsupervised -> Predict next char
   - [ ] Simple RNN
@@ -53,11 +53,21 @@ Code for the proteins properties prediction for the AI Saturdays Murcia
   - [ ] [Reformer](https://arxiv.org/abs/2001.04451)
   
 
-# Papers
+# Biology Papers
 
+- Convolutions
+  - [Ultra-Deep Learning Model](https://arxiv.org/abs/1609.00680) (2016)
+  - [AlphaFold](https://deepmind.com/blog/article/AlphaFold-Using-AI-for-scientific-discovery): From seq -> predict 3D shape
+    - [Paper in Nature](https://www.nature.com/articles/s41586-019-1923-7.epdf?author_access_token=Z_KaZKDqtKzbE7Wd5HtwI9RgN0jAjWel9jnR3ZoTv0MCcgAwHMgRx9mvLjNQdB2TlQQaa7l420UCtGo8vYQ39gg8lFWR9mAZtvsN_1PrccXfIbc6e-tGSgazNL_XdtQzn1PHfy21qdcxV7Pw-k3htw%3D%3D) (Jan 2020)
+    - [Paper in Proteins](https://onlinelibrary.wiley.com/doi/epdf/10.1002/prot.25834) (Sep 2019)
+- Recurrent
+  - [DeepDom](https://psb.stanford.edu/psb-online/proceedings/psb19/jiang.pdf) (January 2019) `LSTM`
+  - UniRep (March 2019) `mLSTM` `Unsupervised`
+  - [UDSMProt](https://www.biorxiv.org/content/10.1101/704874v2.full.pdf) (September 2019) `AWD-LSTM` `Unsupervised` ⭐
+  - [ProteinGAN](https://www.biorxiv.org/content/10.1101/789719v2) (October 2019)
 - Transformers
-  - Biological Structure and Function Emerge ... (abr 2019, FAIR)
+  - Biological Structure and Function Emerge ... (April 2019, FAIR) `Unsupervised` ⭐
     - [paper](https://www.biorxiv.org/content/10.1101/622803v1) 
-  - [ProGen](https://twitter.com/RichardSocher/status/1237842037744910336) (mar 2020)
+  - [ProGen](https://twitter.com/RichardSocher/status/1237842037744910336) (March 2020) `Unsupervised`  ⭐⭐
     - [Blog](https://blog.einstein.ai/progen/)
     - [Paper](https://www.biorxiv.org/content/10.1101/2020.03.07.982272v1)
