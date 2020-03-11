@@ -40,6 +40,7 @@ Code for the proteins properties prediction for the AI Saturdays Murcia
   - [ ] Simple RNN
   - [ ] GRU
   - [ ] LSTM
+    - Con [DropConnect](https://es.coursera.org/lecture/competitive-data-science/hyperparameter-tuning-iii-Hg3xw)
   - [ ] mLSTM
   - [ ] [AWD-LSTM](https://arxiv.org/abs/1708.02182): Regular LSTM with extra dropouts. Used in [ULMFiT](https://arxiv.org/abs/1801.06146)
   - [ ] [QRNN](https://arxiv.org/abs/1611.01576): Quasi-Recurrent Neural Networks. Used in [MultiFiT](https://arxiv.org/abs/1909.04761)
@@ -50,3 +51,9 @@ Code for the proteins properties prediction for the AI Saturdays Murcia
   - [ ] [RoBERTa](https://arxiv.org/abs/1907.11692)
   - [ ] [BART](https://arxiv.org/abs/1910.13461)
   - [ ] [Reformer](https://arxiv.org/abs/2001.04451)
+  
+
+# Papers
+- [ProGen](https://twitter.com/RichardSocher/status/1237842037744910336)
+  - [Blog](https://blog.einstein.ai/progen/)
+  - [Paper](https://www.biorxiv.org/content/10.1101/2020.03.07.982272v1)
