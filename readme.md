@@ -51,7 +51,7 @@ Modelos de Deep Learning a probar
   - [ ] RoBERTa:  [paper](https://arxiv.org/abs/1907.11692), [vídeo](https://youtu.be/-MCYbmU9kfg) (Jul 2019)
   - [ ] BART:     [paper](https://arxiv.org/abs/1910.13461) (Oct 2019)
   - [ ] Reformer: [paper](https://arxiv.org/abs/2001.04451), [vídeo](https://youtu.be/i4H0kjxrias), [vídeo2](https://youtu.be/Kf3x3lqf9cQ) (Ene 2020)
-  - [ ] ELECTRA:  [paper](https://openreview.net/pdf?id=r1xMH1BtvB) (Feb 2020)
+  - [ ] ELECTRA:  [paper](https://openreview.net/pdf?id=r1xMH1BtvB), [vídeo](https://youtu.be/QWu7j1nb_jI) (Feb 2020)
   
 
 ## Biology Papers
