@@ -34,7 +34,8 @@ Code for the proteins properties prediction for the AI Saturdays Murcia
   - **UniParc**: ftp://ftp.uniprot.org/pub/databases/uniprot/current_release/uniparc/
 
 
-## Modelos de Deep Learning a probar
+## Deep Learning papers
+Modelos de Deep Learning a probar
 
 - **Recurrent**:
   - [ ] Simple RNN
@@ -45,22 +46,22 @@ Code for the proteins properties prediction for the AI Saturdays Murcia
   - [ ] [AWD-LSTM](https://arxiv.org/abs/1708.02182): Regular LSTM with extra dropouts. Used in [ULMFiT](https://arxiv.org/abs/1801.06146)
   - [ ] [QRNN](https://arxiv.org/abs/1611.01576): Quasi-Recurrent Neural Networks. Used in [MultiFiT](https://arxiv.org/abs/1909.04761)
 - **Transformers**:
-  - [ ] Attention: [paper](https://arxiv.org/abs/1706.03762), [video](https://youtu.be/iDulhoQ2pro)
-  - [ ] BERT:      [paper](https://arxiv.org/abs/1810.04805), [video](https://youtu.be/-9evrZnBorM)
-  - [ ] Transformer-XL: [paper](https://arxiv.org/abs/1901.02860)
-  - [ ] XLNet:    [paper](https://arxiv.org/abs/1906.08237), [video](https://youtu.be/H5vpBCLo74U)
-  - [ ] RoBERTa:  [paper](https://arxiv.org/abs/1907.11692), [video](https://youtu.be/-MCYbmU9kfg)
-  - [ ] BART:     [paper](https://arxiv.org/abs/1910.13461)
-  - [ ] Reformer: [paper](https://arxiv.org/abs/2001.04451), [video](https://youtu.be/i4H0kjxrias), [video2](https://youtu.be/Kf3x3lqf9cQ)
-  - [ ] ELECTRA:  [paper](https://openreview.net/pdf?id=r1xMH1BtvB)
+  - [ ] Attention: [paper](https://arxiv.org/abs/1706.03762), [vídeo](https://youtu.be/iDulhoQ2pro) (Jun 2017)
+  - [ ] BERT:      [paper](https://arxiv.org/abs/1810.04805), [vídeo](https://youtu.be/-9evrZnBorM) (Oct 2018)
+  - [ ] Transformer-XL: [paper](https://arxiv.org/abs/1901.02860)  (Ene 2019)
+  - [ ] XLNet:    [paper](https://arxiv.org/abs/1906.08237), [vídeo](https://youtu.be/H5vpBCLo74U) (Jun 2019)
+  - [ ] RoBERTa:  [paper](https://arxiv.org/abs/1907.11692), [vídeo](https://youtu.be/-MCYbmU9kfg) (Jul 2019)
+  - [ ] BART:     [paper](https://arxiv.org/abs/1910.13461) (Oct 2019)
+  - [ ] Reformer: [paper](https://arxiv.org/abs/2001.04451), [vídeo](https://youtu.be/i4H0kjxrias), [vídeo2](https://youtu.be/Kf3x3lqf9cQ) (Ene 2020)
+  - [ ] ELECTRA:  [paper](https://openreview.net/pdf?id=r1xMH1BtvB) (Feb 2020)
   
 
-# Biology Papers
+## Biology Papers
 
 - Convolutions
   - [Ultra-Deep Learning Model](https://arxiv.org/abs/1609.00680) (2016)
   - [AlphaFold](https://deepmind.com/blog/article/AlphaFold-Using-AI-for-scientific-discovery): From seq -> predict 3D shape
-    - [Paper in Nature](https://www.nature.com/articles/s41586-019-1923-7.epdf?author_access_token=Z_KaZKDqtKzbE7Wd5HtwI9RgN0jAjWel9jnR3ZoTv0MCcgAwHMgRx9mvLjNQdB2TlQQaa7l420UCtGo8vYQ39gg8lFWR9mAZtvsN_1PrccXfIbc6e-tGSgazNL_XdtQzn1PHfy21qdcxV7Pw-k3htw%3D%3D) (Jan 2020)
+    - [Paper in Nature](https://www.nature.com/articles/s41586-019-1923-7.epdf?author_access_token=Z_KaZKDqtKzbE7Wd5HtwI9RgN0jAjWel9jnR3ZoTv0MCcgAwHMgRx9mvLjNQdB2TlQQaa7l420UCtGo8vYQ39gg8lFWR9mAZtvsN_1PrccXfIbc6e-tGSgazNL_XdtQzn1PHfy21qdcxV7Pw-k3htw%3D%3D) (Ene 2020)
     - [Paper in Proteins](https://onlinelibrary.wiley.com/doi/epdf/10.1002/prot.25834) (Sep 2019)
 - Recurrent
   - [DeepDom](https://psb.stanford.edu/psb-online/proceedings/psb19/jiang.pdf) (January 2019) `LSTM`
