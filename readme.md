@@ -36,7 +36,7 @@ Code for the proteins properties prediction for the AI Saturdays Murcia
 
 ## Modelos de Deep Learning a probar
 
-- **Recurrent**: Unsupervised -> Predict next char
+- **Recurrent**:
   - [ ] Simple RNN
   - [ ] GRU
   - [ ] LSTM
@@ -44,13 +44,15 @@ Code for the proteins properties prediction for the AI Saturdays Murcia
   - [ ] mLSTM
   - [ ] [AWD-LSTM](https://arxiv.org/abs/1708.02182): Regular LSTM with extra dropouts. Used in [ULMFiT](https://arxiv.org/abs/1801.06146)
   - [ ] [QRNN](https://arxiv.org/abs/1611.01576): Quasi-Recurrent Neural Networks. Used in [MultiFiT](https://arxiv.org/abs/1909.04761)
-- **Transformers**: Unsupervised -> Predict masked char or [ELECTRA](https://openreview.net/pdf?id=r1xMH1BtvB)
-  - [ ] Simple transformer
-  - [ ] [BERT](https://arxiv.org/abs/1810.04805)
-  - [ ] [Transformer-XL](https://arxiv.org/abs/1901.02860)
-  - [ ] [RoBERTa](https://arxiv.org/abs/1907.11692)
-  - [ ] [BART](https://arxiv.org/abs/1910.13461)
-  - [ ] [Reformer](https://arxiv.org/abs/2001.04451)
+- **Transformers**:
+  - [ ] Attention: [paper](https://arxiv.org/abs/1706.03762), [video](https://youtu.be/iDulhoQ2pro)
+  - [ ] BERT:      [paper](https://arxiv.org/abs/1810.04805), [video](https://youtu.be/-9evrZnBorM)
+  - [ ] Transformer-XL: [paper](https://arxiv.org/abs/1901.02860)
+  - [ ] XLNet:    [paper](https://arxiv.org/abs/1906.08237), [video](https://youtu.be/H5vpBCLo74U)
+  - [ ] RoBERTa:  [paper](https://arxiv.org/abs/1907.11692), [video](https://youtu.be/-MCYbmU9kfg)
+  - [ ] BART:     [paper](https://arxiv.org/abs/1910.13461)
+  - [ ] Reformer: [paper](https://arxiv.org/abs/2001.04451), [video](https://youtu.be/i4H0kjxrias), [video2](https://youtu.be/Kf3x3lqf9cQ)
+  - [ ] ELECTRA:  [paper](https://openreview.net/pdf?id=r1xMH1BtvB)
   
 
 # Biology Papers
