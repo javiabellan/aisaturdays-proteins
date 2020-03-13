@@ -67,7 +67,7 @@ Modelos de Deep Learning a probar
   - UniRep: Detect protein properties (Ma 2019) `mLSTM` `Unsupervised`
   - [Biological Structure and Function Emerge ...](https://www.biorxiv.org/content/10.1101/622803v1)  (Abr 2019, FAIR) `Transformer` `Unsupervised` ⭐
   - [UDSMProt](https://www.biorxiv.org/content/10.1101/704874v2.full.pdf): Detect protein properties (Sep 2019) `AWD-LSTM` `Unsupervised` ⭐
-  - [ProGen](https://twitter.com/RichardSocher/status/1237842037744910336) (Mar 2020)  `Transformer` `Unsupervised`  ⭐⭐
+  - [ProGen](https://twitter.com/RichardSocher/status/1237842037744910336): Generate viable proteins based on user specs. (Mar 2020)  `Transformer` `Unsupervised`  ⭐⭐
     - [Blog](https://blog.einstein.ai/progen/)
     - [Paper](https://www.biorxiv.org/content/10.1101/2020.03.07.982272v1)
 - GAN:
