@@ -16,8 +16,6 @@ Code for the proteins properties prediction for the AI Saturdays Murcia
 
 ## Data
 
-
-
 | Dataset 26/2/2020        | Num seqs.       | Comprimido | Descompr.     | Descripción                              |
 |:------------------------:|----------------:|-----------:|--------------:|------------------------------------------|
 | UniProtKB **Varsplic**   | **40.255**      | 8 MB       | **28** MB     | Para pruebas pequeñas                    |
@@ -55,8 +53,6 @@ Modelos de Deep Learning a probar
   - [ ] Reformer: [paper](https://arxiv.org/abs/2001.04451), [vídeo](https://youtu.be/i4H0kjxrias), [vídeo2](https://youtu.be/Kf3x3lqf9cQ) (Ene 2020)
   - [ ] ELECTRA:  [paper](https://openreview.net/pdf?id=r1xMH1BtvB) (Feb 2020)
   
-
-## Biology Papers
 
 ## Biology Papers
 
