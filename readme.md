@@ -4,15 +4,17 @@ Code for the proteins properties prediction for the AI Saturdays Murcia
 ## Pasos
 
 1. Con datasets pequeños -> Entrenar de forma no supervisada (sólo las secuencias)
-    - Redes recurrentes -> Predecir el siguinete aminoácido (ver ULMFiT)
-    - Transformers -> Predecir el aminoacido oculto (ver BERT)
-    - Transformers -> Predecir si amonoácido real o no (ver ELECTRA)
-    - Comparar cuales son los mejores modelos.
+   - Redes recurrentes -> **Language Model (LM)** -> Predecir el siguinete aminoácido (ver ULMFiT)
+   - Transformers -> **Masked Language Model (MLM)** ->  Predecir el aminoacido oculto (ver BERT)
+   - Transformers -> **Next Sentence Prediction (NSP)** -> Predecir si subsecuencias son consecutivas o no (ver BERT)
+   - Transformers -> **Replaced Token Detection (RTD)** -> Predecir si amonoácido real o no (ver ELECTRA)
+2. Comparar cuales son los mejores modelos.
+    - Hacer estudios de ablación
     - Hecer exploratorio con reducción dimensional.
     - Introducir los datos de los dominios.
-2. Con datasets pequeños -> Entrenar de forma supervisada (alguna tarea de clasificación de la proteina)
+3. Con datasets pequeños -> Entrenar de forma supervisada (alguna tarea de clasificación de la proteina)
     - ¿Qué es interesante predecir? Preguntar a Alvaro y Estaban.
-3. Repetir lo anterior con datasets más grandes
+4. Repetir lo anterior con datasets más grandes
 
 ## Data
 
