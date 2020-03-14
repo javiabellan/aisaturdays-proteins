@@ -27,8 +27,8 @@ Code for the proteins properties prediction for the AI Saturdays Murcia
 | **UniRef90**                | **107.153.647** | 23.1 GB    |               | Hasta 90% de similaridad.                |
 | **UniRef100**               | **216.491.817** | 51.1 GB    |               | Todas.                                   |
 | **UniParc**                 | **310.472.414** | 62.3 GB    |               | Todo de todo.                            |
-| **Pfam**                    |                 |            |               | Secuencias + dominios. Menor que uniProt |
-| **Protein Data Bank (PDB)** | **160.000**     |            |               | Estructura 3D de la proteina             |
+| **Pfam**                    |                 |            |               | Secuencia + Dominio. Menor que uniProt   |
+| **Protein Data Bank (PDB)** | **160.000**     |            |               | Secuencias + Estructura 3D               |
 
 - Enlaces
   - **UniProtKB**: ftp://ftp.uniprot.org/pub/databases/uniprot/current_release/knowledgebase/complete/
