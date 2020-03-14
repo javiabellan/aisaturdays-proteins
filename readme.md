@@ -66,7 +66,11 @@ Modelos de Deep Learning a probar
     - [Paper in Proteins](https://onlinelibrary.wiley.com/doi/epdf/10.1002/prot.25834) (Sep 2019)
 - **Sequence** of aminoacids of protein
   - [DeepDom](https://psb.stanford.edu/psb-online/proceedings/psb19/jiang.pdf): Predict protein domain boundaries (Ene 2019) `LSTM`
-  - UniRep: Detect protein properties (Ma 2019) `mLSTM` `Unsupervised`
+  - **UniRep**: Detect protein properties (Mar 2019) `mLSTM` `Unsupervised`
+    - [Paper](https://www.biorxiv.org/content/10.1101/589333v1.full.pdf)
+    - [Blog](https://moalquraishi.wordpress.com/2019/04/01/the-future-of-protein-science-will-not-be-supervised/)
+    - [Twitter summary](https://twitter.com/SurgeBiswas/status/1110604004818587648)
+    - [Code](https://github.com/churchlab/UniRep) (Tensorflow)
   - [Biological Structure and Function Emerge ...](https://www.biorxiv.org/content/10.1101/622803v1)  (Abr 2019, FAIR) `Transformer` `Unsupervised` ⭐
   - [UDSMProt](https://www.biorxiv.org/content/10.1101/704874v2.full.pdf): Detect protein properties (Sep 2019) `AWD-LSTM` `Unsupervised` ⭐
   - [ProGen](https://twitter.com/RichardSocher/status/1237842037744910336): Generate viable proteins based on user specs. (Mar 2020)  `Transformer` `Unsupervised`  ⭐⭐
