@@ -18,16 +18,17 @@ Code for the proteins properties prediction for the AI Saturdays Murcia
 
 ## Data
 
-| Dataset 26/2/2020        | Num seqs.       | Comprimido | Descompr.     | Descripción                              |
-|:------------------------:|----------------:|-----------:|--------------:|------------------------------------------|
-| UniProtKB **Varsplic**   | **40.255**      | 8 MB       | **28** MB     | Para pruebas pequeñas                    |
-| UniProtKB **Swissprot**  | **561.911**     | 85 MB      | **264** MB    | Manually annotated and reviewed          |
-| UniProtKB **TrEMBL**     | **177.754.527** | 39.2 GB    |               | Automatically annotated and not reviewed |
-| **UniRef50**             | **39.178.216**  | 7.3 GB     |               | Hasta 50% de similaridad.                |
-| **UniRef90**             | **107.153.647** | 23.1 GB    |               | Hasta 90% de similaridad.                |
-| **UniRef100**            | **216.491.817** | 51.1 GB    |               | Todas.                                   |
-| **UniParc**              | **310.472.414** | 62.3 GB    |               | Todo de todo.                            |
-| **Pfam**                 |                 |            |               | Secuencias + dominios. Menor que uniProt |
+| Dataset 26/2/2020           | Num proteínas   | Comprimido | Descompr.     | Descripción                              |
+|:---------------------------:|----------------:|-----------:|--------------:|------------------------------------------|
+| UniProtKB **Varsplic**      | **40.255**      | 8 MB       | **28** MB     | Para pruebas pequeñas                    |
+| UniProtKB **Swissprot**     | **561.911**     | 85 MB      | **264** MB    | Manually annotated and reviewed          |
+| UniProtKB **TrEMBL**        | **177.754.527** | 39.2 GB    |               | Automatically annotated and not reviewed |
+| **UniRef50**                | **39.178.216**  | 7.3 GB     |               | Hasta 50% de similaridad.                |
+| **UniRef90**                | **107.153.647** | 23.1 GB    |               | Hasta 90% de similaridad.                |
+| **UniRef100**               | **216.491.817** | 51.1 GB    |               | Todas.                                   |
+| **UniParc**                 | **310.472.414** | 62.3 GB    |               | Todo de todo.                            |
+| **Pfam**                    |                 |            |               | Secuencias + dominios. Menor que uniProt |
+| **Protein Data Bank (PDB)** | **160.000**     |            |               | Estructura 3D de la proteina             |
 
 - Enlaces
   - **UniProtKB**: ftp://ftp.uniprot.org/pub/databases/uniprot/current_release/knowledgebase/complete/
