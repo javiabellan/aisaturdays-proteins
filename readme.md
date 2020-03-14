@@ -67,7 +67,10 @@ Modelos de Deep Learning a probar
     - [Paper in Nature](https://www.nature.com/articles/s41586-019-1923-7.epdf?author_access_token=Z_KaZKDqtKzbE7Wd5HtwI9RgN0jAjWel9jnR3ZoTv0MCcgAwHMgRx9mvLjNQdB2TlQQaa7l420UCtGo8vYQ39gg8lFWR9mAZtvsN_1PrccXfIbc6e-tGSgazNL_XdtQzn1PHfy21qdcxV7Pw-k3htw%3D%3D) (Ene 2020)
     - [Paper in Proteins](https://onlinelibrary.wiley.com/doi/epdf/10.1002/prot.25834) (Sep 2019)
 - **Sequence** of aminoacids of protein
-  - [DeepDom](https://psb.stanford.edu/psb-online/proceedings/psb19/jiang.pdf): Predict protein domain boundaries (Ene 2019) `LSTM`
+  - **DeepDom**: Predict protein domain boundaries (Ene 2019) `LSTM`
+    - [Paper](https://psb.stanford.edu/psb-online/proceedings/psb19/jiang.pdf)
+  - Learning protein sequence embeddings using information from structure (Ene 2019) `BiLSTM` `Unsupervised`
+    - [Paper](https://arxiv.org/pdf/1902.08661.pdf)
   - **UniRep**: Detect protein properties (Mar 2019) `mLSTM` `Unsupervised`
     - [Twitter summary](https://twitter.com/SurgeBiswas/status/1110604004818587648)
     - [Blog summary](https://moalquraishi.wordpress.com/2019/04/01/the-future-of-protein-science-will-not-be-supervised/)
