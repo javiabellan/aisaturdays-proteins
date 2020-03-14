@@ -27,12 +27,13 @@ Code for the proteins properties prediction for the AI Saturdays Murcia
 | **UniRef90**             | **107.153.647** | 23.1 GB    |               | Hasta 90% de similaridad.                |
 | **UniRef100**            | **216.491.817** | 51.1 GB    |               | Todas.                                   |
 | **UniParc**              | **310.472.414** | 62.3 GB    |               | Todo de todo.                            |
+| **Pfam**                 |                 |            |               | Secuencias + dominios. Menor que uniProt |
 
 - Enlaces
   - **UniProtKB**: ftp://ftp.uniprot.org/pub/databases/uniprot/current_release/knowledgebase/complete/
   - **UniRef**: ftp://ftp.uniprot.org/pub/databases/uniprot/current_release/uniref/
   - **UniParc**: ftp://ftp.uniprot.org/pub/databases/uniprot/current_release/uniparc/
-
+  - **Pfam**: ftp://ftp.ebi.ac.uk/pub/databases/Pfam/current_release
 
 ## Deep Learning papers
 Modelos de Deep Learning a probar
