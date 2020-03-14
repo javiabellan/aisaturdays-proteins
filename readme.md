@@ -18,7 +18,7 @@ Code for the proteins properties prediction for the AI Saturdays Murcia
 
 ## Data
 
-| Dataset 26/2/2020           | Num proteínas   | Comprimido | Descompr.     | Descripción                              |
+| Dataset 26/2/2020           | Num prots       | Comprimido | Descompr.     | Descripción                              |
 |:---------------------------:|----------------:|-----------:|--------------:|------------------------------------------|
 | UniProtKB **Varsplic**      | **40.255**      | 8 MB       | **28** MB     | Para pruebas pequeñas                    |
 | UniProtKB **Swissprot**     | **561.911**     | 85 MB      | **264** MB    | Manually annotated and reviewed          |
