@@ -73,6 +73,10 @@ Modelos de Deep Learning a probar
     - [Paper](https://www.biorxiv.org/content/10.1101/589333v1.full.pdf)
     - [Code](https://github.com/churchlab/UniRep) (Tensorflow)
   - [Biological Structure and Function Emerge ...](https://www.biorxiv.org/content/10.1101/622803v1)  (Abr 2019, FAIR) `Transformer` `Unsupervised` ⭐
+  - **TAPE**: Evaluating Protein Transfer Learning (Jun 2019) ⭐
+    - [Blog summary](https://bair.berkeley.edu/blog/2019/11/04/proteins/)
+    - [Paper](https://arxiv.org/pdf/1906.08230.pdf)
+    - [Code](https://github.com/songlab-cal/tape) (Pytorch)
   - [UDSMProt](https://www.biorxiv.org/content/10.1101/704874v2.full.pdf): Detect protein properties (Sep 2019) `AWD-LSTM` `Unsupervised` ⭐
   - **ProGen**: Generate viable proteins based on user specs. (Mar 2020)  `Transformer` `Unsupervised`  ⭐⭐
     - [Twitter summary](https://twitter.com/RichardSocher/status/1237842037744910336)
