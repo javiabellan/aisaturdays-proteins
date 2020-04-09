@@ -38,7 +38,7 @@ Poder agrupar las secuencias de forma óptima. Empezar por la familia *macro* y 
 
 # 🖥️ Métodos
 
-### No deep Laerning
+### No Deep Learning
 
 - [ ] Countvectorizer: Sacar cuantas veces aparece cada letra
 - [ ] Countvectorizer normalizado: Sacar cuantas veces aparece cada letra y dividir entre la longitud de la secuencia
