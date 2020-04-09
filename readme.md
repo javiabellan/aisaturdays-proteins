@@ -26,7 +26,7 @@ Poder agrupar las secuencias de forma óptima. Empezar por la familia *macro* y 
 | **UniRef90**                | **107.153.647** | 23.1 GB    |               | Hasta 90% de similaridad.                |
 | **UniRef100**               | **216.491.817** | 51.1 GB    |               | Todas.                                   |
 | **UniParc**                 | **310.472.414** | 62.3 GB    |               | Todo de todo.                            |
-| **Pfam**                    |                 |            |               | Secuencia + Dominio. Menor que uniProt   |
+| **Pfam**  (release 27.0)    | **21.827.419**  |            |               | Secuencia + Dominio. 16.479 families.    |
 | **Protein Data Bank (PDB)** | **160.000**     |            |               | Secuencias + Estructura 3D               |
 
 - Enlaces
