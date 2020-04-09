@@ -1,11 +1,11 @@
 <h1 align="center">🧬 Clustering Proteins 🧬</h1>
 <h3 align="center">Project for the AI Saturdays Murcia</h3>
 
-# Objetivo
+# 🎯 Objetivo
 Poder agrupar las secuencias de forma óptima. Empezar por la familia *macro* y luego hacer para otras familias.
 
 
-# Datos
+# 💾 Datos
 
 ### Proteinas que contienen el dominio Macro
 
@@ -36,7 +36,7 @@ Poder agrupar las secuencias de forma óptima. Empezar por la familia *macro* y 
   - **Pfam**: ftp://ftp.ebi.ac.uk/pub/databases/Pfam/current_release
 
 
-# Métodos
+# 🖥️ Métodos
 
 ### Deep Learning
 
