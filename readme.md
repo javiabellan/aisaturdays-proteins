@@ -17,7 +17,7 @@ Poder agrupar las secuencias de forma óptima. Empezar por la familia *macro* y 
 
 ### Todas las proteinas
 
-| Dataset 26/2/2020           | Num prots       | Compr.     | Descompr.     | Descripción                              |
+| Dataset 26/2/2020           | Num secuencias  | Compr.     | Descompr.     | Descripción                              |
 |:---------------------------:|----------------:|-----------:|--------------:|------------------------------------------|
 | UniProtKB **Varsplic**      | **40.255**      | 8 MB       | **28** MB     | Para pruebas pequeñas                    |
 | UniProtKB **Swissprot**     | **561.911**     | 85 MB      | **264** MB    | Manually annotated and reviewed          |
