@@ -1,23 +1,21 @@
 <h1 align="center">🧬 Clustering Proteins 🧬</h1>
 <h3 align="center">Project for the AI Saturdays Murcia</h3>
 
+# Objetivo
+Poder agrupar las secuencias de forma óptima. Empezar por la familia *macro* y luego hacer para otras familias.
 
-## Pasos
 
-1. Con datasets pequeños -> Entrenar de forma no supervisada (sólo las secuencias)
-   - Redes recurrentes -> **Language Model (LM)** -> Predecir el siguinete aminoácido (ver ULMFiT)
-   - Transformers -> **Masked Language Model (MLM)** ->  Predecir el aminoacido oculto (ver BERT)
-   - Transformers -> **Next Sentence Prediction (NSP)** -> Predecir si subsecuencias son consecutivas o no (ver BERT)
-   - Transformers -> **Replaced Token Detection (RTD)** -> Predecir si amonoácido real o no (ver ELECTRA)
-2. Comparar cuales son los mejores modelos.
-    - Hacer estudios de ablación
-    - Hecer exploratorio con reducción dimensional.
-    - Introducir los datos de los dominios.
-3. Con datasets pequeños -> Entrenar de forma supervisada (alguna tarea de clasificación de la proteina)
-    - ¿Qué es interesante predecir? Preguntar a Alvaro y Estaban.
-4. Repetir lo anterior con datasets más grandes
+# Datos
 
-## Data
+### Proteinas que contienen el dominio Macro
+
+| Dataset                     | Num secuencias | Enlace                                       |
+|:---------------------------:|:--------------:|----------------------------------------------|
+| **Pfam**                    | 8.832          | https://pfam.xfam.org/family/Macro           |
+| **Uniprot**                 | 39.133         | https://www.uniprot.org/uniprot/?query=macro |
+
+
+### Todas las proteinas
 
 | Dataset 26/2/2020           | Num prots       | Compr.     | Descompr.     | Descripción                              |
 |:---------------------------:|----------------:|-----------:|--------------:|------------------------------------------|
@@ -36,6 +34,24 @@
   - **UniRef**: ftp://ftp.uniprot.org/pub/databases/uniprot/current_release/uniref/
   - **UniParc**: ftp://ftp.uniprot.org/pub/databases/uniprot/current_release/uniparc/
   - **Pfam**: ftp://ftp.ebi.ac.uk/pub/databases/Pfam/current_release
+
+
+# Métodos
+
+1. Con datasets pequeños -> Entrenar de forma no supervisada (sólo las secuencias)
+   - Redes recurrentes -> **Language Model (LM)** -> Predecir el siguinete aminoácido (ver ULMFiT)
+   - Transformers -> **Masked Language Model (MLM)** ->  Predecir el aminoacido oculto (ver BERT)
+   - Transformers -> **Next Sentence Prediction (NSP)** -> Predecir si subsecuencias son consecutivas o no (ver BERT)
+   - Transformers -> **Replaced Token Detection (RTD)** -> Predecir si amonoácido real o no (ver ELECTRA)
+2. Comparar cuales son los mejores modelos.
+    - Hacer estudios de ablación
+    - Hecer exploratorio con reducción dimensional.
+    - Introducir los datos de los dominios.
+3. Con datasets pequeños -> Entrenar de forma supervisada (alguna tarea de clasificación de la proteina)
+    - ¿Qué es interesante predecir? Preguntar a Alvaro y Estaban.
+4. Repetir lo anterior con datasets más grandes
+
+
 
 ## Deep Learning papers
 Modelos de Deep Learning a probar
