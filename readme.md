@@ -47,6 +47,7 @@ Poder agrupar las secuencias de forma óptima. Empezar por la familia *macro* y 
 
 ### Deep Learning
 
+- **Convolutional**:
 - **Recurrent**:
   - [ ] Simple RNN
   - [ ] GRU
