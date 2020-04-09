@@ -1,5 +1,6 @@
-# 🧬 Proteins AI-Saturdays 🧬
-Code for the proteins properties prediction for the AI Saturdays Murcia
+<h1 align="center">🧬 Clustering Proteins 🧬</h1>
+<h3 align="center">Project for the AI Saturdays Murcia</h3>
+
 
 ## Pasos
 
