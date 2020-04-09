@@ -38,23 +38,7 @@ Poder agrupar las secuencias de forma óptima. Empezar por la familia *macro* y 
 
 # Métodos
 
-1. Con datasets pequeños -> Entrenar de forma no supervisada (sólo las secuencias)
-   - Redes recurrentes -> **Language Model (LM)** -> Predecir el siguinete aminoácido (ver ULMFiT)
-   - Transformers -> **Masked Language Model (MLM)** ->  Predecir el aminoacido oculto (ver BERT)
-   - Transformers -> **Next Sentence Prediction (NSP)** -> Predecir si subsecuencias son consecutivas o no (ver BERT)
-   - Transformers -> **Replaced Token Detection (RTD)** -> Predecir si amonoácido real o no (ver ELECTRA)
-2. Comparar cuales son los mejores modelos.
-    - Hacer estudios de ablación
-    - Hecer exploratorio con reducción dimensional.
-    - Introducir los datos de los dominios.
-3. Con datasets pequeños -> Entrenar de forma supervisada (alguna tarea de clasificación de la proteina)
-    - ¿Qué es interesante predecir? Preguntar a Alvaro y Estaban.
-4. Repetir lo anterior con datasets más grandes
-
-
-
-## Deep Learning papers
-Modelos de Deep Learning a probar
+### Deep Learning
 
 - **Recurrent**:
   - [ ] Simple RNN
@@ -73,7 +57,12 @@ Modelos de Deep Learning a probar
   - [ ] BART:     [paper](https://arxiv.org/abs/1910.13461) (Oct 2019)
   - [ ] Reformer: [paper](https://arxiv.org/abs/2001.04451), [vídeo](https://youtu.be/i4H0kjxrias), [vídeo2](https://youtu.be/Kf3x3lqf9cQ) (Ene 2020)
   - [ ] ELECTRA:  [paper](https://openreview.net/pdf?id=r1xMH1BtvB), [vídeo](https://youtu.be/QWu7j1nb_jI) (Feb 2020)
-  
+
+#### Aprendizaje no supervisado (sólo para deep learning)
+- Redes recurrentes -> **Language Model (LM)** -> Predecir el siguinete aminoácido (ver ULMFiT)
+- Transformers -> **Masked Language Model (MLM)** ->  Predecir el aminoacido oculto (ver BERT)
+- Transformers -> **Next Sentence Prediction (NSP)** -> Predecir si subsecuencias son consecutivas o no (ver BERT)
+- Transformers -> **Replaced Token Detection (RTD)** -> Predecir si amonoácido real o no (ver ELECTRA)
 
 ## Biology Papers
 
