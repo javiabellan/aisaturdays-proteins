@@ -97,6 +97,8 @@ Poder agrupar las secuencias de forma óptima. Empezar por la familia *macro* y 
     - [Paper](https://arxiv.org/pdf/1906.08230.pdf)
     - [Code](https://github.com/songlab-cal/tape) (Pytorch)
   - [UDSMProt](https://www.biorxiv.org/content/10.1101/704874v2.full.pdf): Detect protein properties (Sep 2019) `AWD-LSTM` `Unsupervised` ⭐
+  - **PLUS**: Pre-Training with Structural Information (Feb 2020) `BiLSTM` `Transformer` `Unsupervised`
+    - [paper](https://arxiv.org/pdf/1912.05625.pdf)
   - **ProGen**: Generate viable proteins based on user specs. (Mar 2020)  `Transformer` `Unsupervised`  ⭐⭐
     - [Twitter summary](https://twitter.com/RichardSocher/status/1237842037744910336)
     - [Blog summary](https://blog.einstein.ai/progen/)
