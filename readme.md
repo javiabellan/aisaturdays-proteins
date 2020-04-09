@@ -40,8 +40,8 @@ Poder agrupar las secuencias de forma óptima. Empezar por la familia *macro* y 
 
 ### No Deep Learning
 
-- [ ] **Countvectorizer**: Contar cuantas veces aparece cada letra.
-- [ ] **Term Frequency (TF)**: Contar cuantas veces aparece cada letra y dividir entre la longitud de la secuencia.
+- [x] **Countvectorizer**: Contar cuantas veces aparece cada letra.
+- [x] **Term Frequency (TF)**: Contar cuantas veces aparece cada letra y dividir entre la longitud de la secuencia.
 - [ ] **TF-IDF**: Term-Frequency times Inverse Document-Frequency.
 - [ ] N-gramas
 - [ ] N-gramas con ruido
