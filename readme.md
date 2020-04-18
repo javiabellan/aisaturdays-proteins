@@ -2,8 +2,9 @@
 <h3 align="center">Project for the AI Saturdays Murcia</h3>
 
 # 🎯 Objetivo
-Poder agrupar las secuencias de forma óptima. Empezar por la familia *macro* y luego hacer para otras familias.
+Poder agrupar JERARQUICAMENTE las secuencias (que contengan el dominio Macro) de forma óptima. Empezar por la familia *macro* y luego hacer para otras familias.
 
+Como una árbol filogenético.
 
 # 💾 Datos
 
