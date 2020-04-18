@@ -8,6 +8,10 @@ Como una árbol filogenético.
 
 # 💾 Datos
 
+Datos de entrada:
+1. Aminoacidos solo
+2. Aminoacidos con su pertenencia a algún dominio si lo hubiere.
+
 ### Proteinas que contienen el dominio Macro
 
 | Dataset                     | Num secuencias | Enlace                                       |
