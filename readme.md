@@ -80,6 +80,8 @@ Datos de entrada:
 
 ## Biology Papers
 
+> More papers on https://github.com/yangkky/Machine-learning-for-proteins
+
 - 3D shape of the protein
   - [Ultra-Deep Learning Model](https://arxiv.org/abs/1609.00680) (2016)
   - Protein secondary structure detection (Jul 2019)
@@ -101,10 +103,17 @@ Datos de entrada:
     - [Blog summary](https://bair.berkeley.edu/blog/2019/11/04/proteins/)
     - [Paper](https://arxiv.org/pdf/1906.08230.pdf)
     - [Code](https://github.com/songlab-cal/tape) (Pytorch)
-  - [UDSMProt](https://www.biorxiv.org/content/10.1101/704874v2.full.pdf): Detect protein properties (Sep 2019) `AWD-LSTM` `Unsupervised` ⭐
+    - Models on library `$ pip install tape_proteins`
+  - **UDSMProt**: Detect protein properties (Sep 2019) `AWD-LSTM` `Unsupervised` `Fast.ai` ⭐
+    - [Paper](https://www.biorxiv.org/content/10.1101/704874v2.full.pdf)
+    - [Github code](https://github.com/nstrodt/UDSMProt)
+  - **Rosetta**: Improved protein structure prediction using predicted inter-residue orientations (Nov 2019)
+    - [Paper](https://www.biorxiv.org/content/10.1101/846279v1.full.pdf)
   - **PLUS**: Pre-Training with Structural Information (Feb 2020) `BiLSTM` `Transformer` `Unsupervised`
-    - [paper](https://arxiv.org/pdf/1912.05625.pdf)
-  - **ProGen**: Generate viable proteins based on user specs. (Mar 2020)  `Transformer` `Unsupervised`  ⭐⭐
+    - [Paper](https://arxiv.org/pdf/1912.05625.pdf)
+    - [Github code](https://github.com/mswzeus/PLUS)
+    - [Webpage](http://ailab.snu.ac.kr/PLUS): Data and models for download. ⬇️
+  - **ProGen**: Generate viable proteins based on user specs. (Mar 2020)  `Transformer` `Unsupervised`  ⭐
     - [Twitter summary](https://twitter.com/RichardSocher/status/1237842037744910336)
     - [Blog summary](https://blog.einstein.ai/progen/)
     - [Paper](https://www.biorxiv.org/content/10.1101/2020.03.07.982272v1)
